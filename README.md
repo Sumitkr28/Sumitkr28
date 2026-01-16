@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
-<h3 align="center">Data Science and Analytical professional </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
@@ -14,13 +13,13 @@
 
 - 🌱 I’m currently learning **Machine learning @Ai Generative**
 
-- 👯 I’m looking to collaborate on **Data Analyst native projects**
+- 👯 I’m looking to collaborate on **Data Science or AI/ML projects**
 
-- 🤝 I’m looking for help with **Data Analyst**
+- 🤝 I’m looking for help with **Software Engineer (AI/ML)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sumitkr28](https://github.com/Sumitkr28)
+- 👨‍💻 All of my projects are available at https://github.com/Sumitkr28?tab=repositories
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sumit-kumar-91b826253/](https://www.linkedin.com/in/sumit-kumar-91b826253/)
+- 📄 Know about my experiences https://www.linkedin.com/in/sumit-kumar2812/
 
 - 💬 Ask me about **Data Science & Machine learning**
 
