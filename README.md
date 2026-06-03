@@ -6,8 +6,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sumitkr28&label=Profile%20views&color=bc8cff&style=flat-square" alt="Profile views" />
-<a href="https://github.com/Sumitkr28?tab=followers"><img src="https://img.shields.io/github/followers/Sumitkr28?label=Followers&style=flat-square&color=bc8cff&labelColor=161b22" alt="Followers" /></a>
+<img src="assets/profile-views.svg" width="100%" alt="Profile views" />
 
 </div>
 
@@ -56,3 +55,8 @@
 <img src="assets/quote.png" width="100%" alt="Without data, you're just another person with an opinion. — W. Edwards Deming" />
 
 </div>
+
+<!-- Invisible tracker: keeps the komarev view count incrementing on every profile visit.
+     The workflow in .github/workflows/profile-views.yml reads this count every 6h and
+     regenerates assets/profile-views.svg. Do not remove. -->
+<img src="https://komarev.com/ghpvc/?username=Sumitkr28&style=flat&label=%20&color=0d1117" width="1" height="1" alt="" />
