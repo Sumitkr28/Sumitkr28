@@ -1,0 +1,5 @@
+<svg width="128" height="40" viewBox="0 0 128 40" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Portfolio">
+  <rect x="0.75" y="0.75" width="126.5" height="38.5" rx="10" fill="#161b22" stroke="#8b949e" stroke-opacity="0.5" stroke-width="1.5"/>
+  <g transform="translate(13,12) scale(0.7)" fill="#f0f6fc"><path d="M24 22.525H0l12-21.05z"/></g>
+  <text x="40" y="25" font-size="14" font-weight="600" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',sans-serif" fill="#e6edf3">Portfolio</text>
+</svg>
