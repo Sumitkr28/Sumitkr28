@@ -22,15 +22,17 @@
   <img src="assets/highlights.svg" width="100%" alt="Highlights — 5+ AI/ML projects, 5 certifications, 95%+ precision, 10K+ vectors indexed" />
 </p>
 
-### 🟣 Featured work
+<p align="center">
+  <img src="assets/featured-work.svg" width="100%" alt="Featured work — Zora AI; SaceTrace" />
+</p>
 
-| Project | Description | Stack |
-| :-- | :-- | :-- |
-| **⭐ Zora AI** | AI assistant / agent platform — conversational automation powered by LLMs. | `Python` · LLM · Agents |
-| **⭐ SaceTrace** | Intelligent tracing &amp; analytics for data pipelines and ML workflows. | `Python` · Data · ML |
-| **rag-llm-chatbot** | Context-aware Q&amp;A over 5+ sources with LLaMA + FAISS. | `Python` · −40% hallucination |
-| **malicious-url-detection** | Stacking ensemble with 20+ engineered features. | `Python` · 95%+ precision |
-| **credit-card-fraud** | ML classification on imbalanced data with Power BI dashboards. | `Python` · 90%+ precision |
+<div align="center">
+<details>
+<summary><img src="assets/see-more.svg" alt="See more projects" /></summary>
+<br/>
+<img src="assets/featured-work-more.svg" width="100%" alt="More projects — rag-llm-chatbot; malicious-url-detection; credit-card-fraud" />
+</details>
+</div>
 
 <div align="center">
 

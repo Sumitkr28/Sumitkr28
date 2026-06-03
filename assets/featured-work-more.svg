@@ -1,0 +1,34 @@
+<svg width="1000" height="392" viewBox="0 0 1000 392" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="More projects: rag-llm-chatbot; malicious-url-detection; credit-card-fraud">
+  <defs>
+    <style>
+      .fw-mono{font-family:'JetBrains Mono','IBM Plex Mono',ui-monospace,'Courier New',monospace}
+      .fw-sans{font-family:'IBM Plex Sans',-apple-system,'Segoe UI',sans-serif}
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1000" height="392" fill="#0d1117"/>
+
+  <!-- Row 2, left — rag-llm-chatbot -->
+  <rect x="10" y="8" width="475" height="170" rx="16" fill="#11161d" stroke="#21262d" stroke-width="1"/>
+  <text class="fw-mono" x="36" y="52" font-size="18" font-weight="600" fill="#58a6ff">rag-llm-chatbot</text>
+  <text class="fw-sans" x="36" y="86" font-size="14" fill="#8b949e">Context-aware Q&amp;A over 5+ sources with</text>
+  <text class="fw-sans" x="36" y="108" font-size="14" fill="#8b949e">LLaMA + FAISS.</text>
+  <circle cx="40" cy="146" r="4.5" fill="#bb86fc"/>
+  <text class="fw-mono" x="52" y="150" font-size="13" fill="#6e7681"><tspan fill="#adbac7">Python</tspan>   −40% hallucination</text>
+
+  <!-- Row 2, right — malicious-url-detection -->
+  <rect x="515" y="8" width="475" height="170" rx="16" fill="#11161d" stroke="#21262d" stroke-width="1"/>
+  <text class="fw-mono" x="541" y="52" font-size="18" font-weight="600" fill="#58a6ff">malicious-url-detection</text>
+  <text class="fw-sans" x="541" y="86" font-size="14" fill="#8b949e">Stacking ensemble with 20+ engineered</text>
+  <text class="fw-sans" x="541" y="108" font-size="14" fill="#8b949e">features.</text>
+  <circle cx="545" cy="146" r="4.5" fill="#bb86fc"/>
+  <text class="fw-mono" x="557" y="150" font-size="13" fill="#6e7681"><tspan fill="#adbac7">Python</tspan>   95%+ precision</text>
+
+  <!-- Row 3, left — credit-card-fraud -->
+  <rect x="10" y="202" width="475" height="170" rx="16" fill="#11161d" stroke="#21262d" stroke-width="1"/>
+  <text class="fw-mono" x="36" y="246" font-size="18" font-weight="600" fill="#58a6ff">credit-card-fraud</text>
+  <text class="fw-sans" x="36" y="280" font-size="14" fill="#8b949e">ML classification on imbalanced data</text>
+  <text class="fw-sans" x="36" y="302" font-size="14" fill="#8b949e">with Power BI dashboards.</text>
+  <circle cx="40" cy="340" r="4.5" fill="#bb86fc"/>
+  <text class="fw-mono" x="52" y="344" font-size="13" fill="#6e7681"><tspan fill="#adbac7">Python</tspan>   90%+ precision</text>
+</svg>
