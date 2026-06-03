@@ -1,0 +1,35 @@
+name: Update profile-views SVG
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch:         # manual run button
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-views
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Regenerate assets/profile-views.svg
+        run: node scripts/gen-profile-views.mjs
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain assets/profile-views.svg)" ]; then
+            git add assets/profile-views.svg
+            git commit -m "chore: refresh profile-views SVG [skip ci]"
+            git push
+          else
+            echo "No change in view count."
+          fi
