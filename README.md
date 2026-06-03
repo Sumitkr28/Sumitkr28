@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/header.gif" width="100%" alt="Hi, I'm Sumit Kumar — Building Xorvion ai" />
+<img src="assets/header.gif" width="100%" alt="Hi, I'm Sumit Kumar — AI Engineer • Creator of Xorvion AI Projects" />
 
-<a href="https://github.com/Sumitkr28"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=BC8CFF&center=true&vCenter=true&width=900&height=50&lines=Turning+data+into+intelligent+products;AI+Agents+%E2%80%A2+RAG+%E2%80%A2+ML+Pipelines;Building+Xorvion+ai;Always+learning%2C+always+building" alt="What I do" /></a>
+<a href="https://github.com/Sumitkr28"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=BC8CFF&center=true&vCenter=true&width=900&height=50&lines=Turning+data+into+intelligent+products;AI+Agents+%E2%80%A2+RAG+%E2%80%A2+ML+Pipelines;AI+Engineer+%E2%80%A2+Creator+of+Xorvion+AI+Projects;Always+learning%2C+always+building" alt="What I do" /></a>
 
 <br/>
 
