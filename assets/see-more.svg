@@ -1,7 +1,0 @@
-<svg width="240" height="56" viewBox="0 0 240 56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="See more projects">
-  <defs>
-    <style>.sm-mono{font-family:'JetBrains Mono','IBM Plex Mono',ui-monospace,'Courier New',monospace}</style>
-  </defs>
-  <rect x="1.5" y="1.5" width="237" height="53" rx="14" fill="#15121e" stroke="#8b5cf6" stroke-width="1.5"/>
-  <text class="sm-mono" x="120" y="34" font-size="16" font-weight="600" letter-spacing="0.5" fill="#bb86fc" text-anchor="middle">See more projects</text>
-</svg>

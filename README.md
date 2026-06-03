@@ -22,16 +22,13 @@
   <img src="assets/highlights.svg" width="100%" alt="Highlights — 5+ AI/ML projects, 5 certifications, 95%+ precision, 10K+ vectors indexed" />
 </p>
 
-<p align="center">
-  <img src="assets/featured-work.svg" width="100%" alt="Featured work — Zora AI; SaceTrace" />
-</p>
-
 <div align="center">
-<details>
-<summary><img src="assets/see-more.svg" alt="See more projects" /></summary>
-<br/>
-<img src="assets/featured-work-more.svg" width="100%" alt="More projects — rag-llm-chatbot; malicious-url-detection; credit-card-fraud" />
-</details>
+
+<img src="assets/featured-work-header.svg" width="100%" alt="Featured work" />
+
+<a href="https://github.com/Sumitkr28/zora-ai"><img src="assets/fw-zora.svg" width="49%" alt="Zora AI — AI assistant / agent platform" /></a>
+<a href="https://github.com/Sumitkr28/Project--SafeTrace"><img src="assets/fw-sacetrace.svg" width="49%" alt="SaceTrace — intelligent tracing & analytics" /></a>
+
 </div>
 
 <div align="center">

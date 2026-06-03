@@ -1,0 +1,14 @@
+<svg width="460" height="180" viewBox="0 0 460 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SaceTrace — intelligent tracing and analytics. Python, Data, ML.">
+  <defs>
+    <style>
+      .fw-mono{font-family:'JetBrains Mono','IBM Plex Mono',ui-monospace,'Courier New',monospace}
+      .fw-sans{font-family:'IBM Plex Sans',-apple-system,'Segoe UI',sans-serif}
+    </style>
+  </defs>
+  <rect x="1.5" y="1.5" width="457" height="177" rx="16" fill="#15121e" stroke="#8b5cf6" stroke-width="1"/>
+  <text class="fw-mono" x="28" y="50" font-size="19" font-weight="600" fill="#d2a8ff">SaceTrace <tspan fill="#bb86fc">★</tspan></text>
+  <text class="fw-sans" x="28" y="86" font-size="14.5" fill="#8b949e">Intelligent tracing &amp; analytics for</text>
+  <text class="fw-sans" x="28" y="108" font-size="14.5" fill="#8b949e">data pipelines and ML workflows.</text>
+  <circle cx="32" cy="148" r="4.5" fill="#bb86fc"/>
+  <text class="fw-mono" x="44" y="152" font-size="13" fill="#6e7681"><tspan fill="#adbac7">Python</tspan>   Data · ML</text>
+</svg>
