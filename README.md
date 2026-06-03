@@ -10,15 +10,9 @@
 
 </div>
 
-### 🟣 Currently building
-
-**AI agents with MCP + Claude** &nbsp;—&nbsp; `tool calling · orchestration · automation`
-
-<img src="https://progress-bar.xyz/82/?width=440&progress_color=bc8cff&color=ffffff" alt="82%" />
-
-**RAG pipelines & LLM integration** &nbsp;—&nbsp; `FAISS · embeddings · LLaMA / Claude`
-
-<img src="https://progress-bar.xyz/68/?width=440&progress_color=bc8cff&color=ffffff" alt="68%" />
+<p align="center">
+  <img src="assets/currently-building.svg" width="100%" alt="Currently building — AI agents with MCP + Claude (65%); RAG pipelines and LLM integration (55%)" />
+</p>
 
 ### 🟣 Stack
 
