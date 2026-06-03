@@ -4,11 +4,45 @@
 
 <a href="https://github.com/Sumitkr28"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=BC8CFF&center=true&vCenter=true&width=900&height=50&lines=Turning+data+into+intelligent+products;AI+Agents+%E2%80%A2+RAG+%E2%80%A2+ML+Pipelines;Founder+of+Xorvion-ai;Always+learning%2C+always+building" alt="What I do" /></a>
 
-<img src="assets/body-mid.png" width="100%" alt="Profile views · Currently building · Stack" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sumitkr28&label=Profile%20views&color=bc8cff&style=flat-square" alt="Profile views" />
+<a href="https://github.com/Sumitkr28?tab=followers"><img src="https://img.shields.io/github/followers/Sumitkr28?label=Followers&style=flat-square&color=bc8cff&labelColor=161b22" alt="Followers" /></a>
+
+</div>
+
+### 🟣 Currently building
+
+**AI agents with MCP + Claude** &nbsp;—&nbsp; `tool calling · orchestration · automation`
+
+<img src="https://progress-bar.xyz/82/?width=440&progress_color=bc8cff&color=ffffff" alt="82%" />
+
+**RAG pipelines & LLM integration** &nbsp;—&nbsp; `FAISS · embeddings · LLaMA / Claude`
+
+<img src="https://progress-bar.xyz/68/?width=440&progress_color=bc8cff&color=ffffff" alt="68%" />
+
+### 🟣 Stack
 
 <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,fastapi,flask,mysql,mongodb,postgres,firebase,aws,azure,gcp,docker,kubernetes,linux,git,github,java,c,js,html,css&perline=12" alt="Tech stack" />
 
-<img src="assets/body-low.png" width="100%" alt="Highlights · Featured work" />
+### 🟣 Highlights
+
+<img src="https://img.shields.io/badge/AI%2FML%20Projects-5%2B-bc8cff?style=for-the-badge&labelColor=161b22" alt="5+ AI/ML Projects" />
+<img src="https://img.shields.io/badge/Certifications-5-bc8cff?style=for-the-badge&labelColor=161b22" alt="5 Certifications" />
+<img src="https://img.shields.io/badge/Precision-95%25%2B-bc8cff?style=for-the-badge&labelColor=161b22" alt="95%+ Precision" />
+<img src="https://img.shields.io/badge/Vectors%20Indexed-10K%2B-bc8cff?style=for-the-badge&labelColor=161b22" alt="10K+ Vectors Indexed" />
+
+### 🟣 Featured work
+
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| **⭐ Zora AI** | AI assistant / agent platform — conversational automation powered by LLMs. | `Python` · LLM · Agents |
+| **⭐ SaceTrace** | Intelligent tracing &amp; analytics for data pipelines and ML workflows. | `Python` · Data · ML |
+| **rag-llm-chatbot** | Context-aware Q&amp;A over 5+ sources with LLaMA + FAISS. | `Python` · −40% hallucination |
+| **malicious-url-detection** | Stacking ensemble with 20+ engineered features. | `Python` · 95%+ precision |
+| **credit-card-fraud** | ML classification on imbalanced data with Power BI dashboards. | `Python` · 90%+ precision |
+
+<div align="center">
 
 <a href="https://linkedin.com/in/sumit-kumar2812"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/sumit_28_kr/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
