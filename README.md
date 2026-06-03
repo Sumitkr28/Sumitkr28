@@ -4,9 +4,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
 </p>
 
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkr28&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkr28" /> </p>
 
 - 🔭 I’m currently working on **My internships**
@@ -27,8 +24,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sumit-kumar-91b826253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumit-kumar-91b826253/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sumit_28_kr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sumit_28_kr/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sumit-kumar2812/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-kumar2812" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/sumit_28_kr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumit_28_kr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,8 +37,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkr28&" alt="sumitkr28" /></p>
 
-
-
 <p align="center"><em>“Without data, you're just another person with an opinion.” — W. Edwards Deming</em></p>
-
 
