@@ -1,11 +1,12 @@
-<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Currently building: AI agents with MCP + Claude (65%); RAG pipelines and LLM integration (55%)">
+<svg width="1160" height="270" viewBox="0 0 1160 270" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Currently building: AI agents with MCP + Claude; RAG pipelines and LLM integration">
   <defs>
     <linearGradient id="cb-bar" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#bb86fc"/>
-      <stop offset="1" stop-color="#d8b9ff"/>
+      <stop offset="0" stop-color="#bb86fc" stop-opacity="0.35"/>
+      <stop offset="0.5" stop-color="#d8b9ff"/>
+      <stop offset="1" stop-color="#bb86fc" stop-opacity="0.35"/>
     </linearGradient>
     <filter id="cb-glow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <style>
@@ -16,28 +17,30 @@
     </style>
   </defs>
 
-  <rect x="0" y="0" width="1200" height="220" rx="0" fill="#0d1117"/>
+  <rect x="0" y="0" width="1160" height="270" fill="#0d1117"/>
 
-  <!-- section header: ● CURRENTLY BUILDING ───────────── -->
-  <circle class="cb-dot" cx="22" cy="26" r="5" fill="#bb86fc" filter="url(#cb-glow)"/>
-  <text class="cb-mono" x="38" y="31" font-size="14" letter-spacing="3" fill="#8b949e">CURRENTLY BUILDING</text>
-  <line x1="268" y1="26" x2="1160" y2="26" stroke="#21262d" stroke-width="1"/>
+  <!-- section header -->
+  <circle class="cb-dot" cx="24" cy="34" r="6" fill="#bb86fc" filter="url(#cb-glow)"/>
+  <text class="cb-mono" x="44" y="40" font-size="18" letter-spacing="3.5" fill="#8b949e">CURRENTLY BUILDING</text>
+  <line x1="320" y1="34" x2="1120" y2="34" stroke="#21262d" stroke-width="1"/>
 
-  <!-- ── Card 1 ───────────────────────────── -->
-  <rect x="40" y="70" width="520" height="120" rx="12" fill="#11161d" stroke="#21262d" stroke-width="1"/>
-  <text class="cb-sans" x="64" y="110" font-size="17" font-weight="600" fill="#e6edf3">AI agents with MCP + Claude</text>
-  <text class="cb-mono" x="64" y="136" font-size="13" fill="#6e7681">tool calling · orchestration · automation</text>
-  <rect x="64" y="160" width="472" height="8" rx="4" fill="#21262d"/>
-  <rect x="64" y="160" width="307" height="8" rx="4" fill="url(#cb-bar)" filter="url(#cb-glow)">
-    <animate attributeName="width" values="0;307" dur="1.4s" begin="0.1s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze"/>
+  <!-- Card 1 -->
+  <rect x="40" y="80" width="520" height="150" rx="14" fill="#11161d" stroke="#21262d" stroke-width="1"/>
+  <text class="cb-sans" x="68" y="130" font-size="24" font-weight="600" fill="#e6edf3">AI agents with MCP + Claude</text>
+  <text class="cb-mono" x="68" y="163" font-size="16" fill="#6e7681">tool calling · orchestration · automation</text>
+  <rect x="68" y="195" width="464" height="12" rx="6" fill="#21262d"/>
+  <rect x="68" y="195" width="176" height="12" rx="6" fill="url(#cb-bar)" filter="url(#cb-glow)">
+    <animate attributeName="x" values="68;356;68" dur="4s" repeatCount="indefinite"
+             calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
   </rect>
 
-  <!-- ── Card 2 ───────────────────────────── -->
-  <rect x="600" y="70" width="520" height="120" rx="12" fill="#11161d" stroke="#21262d" stroke-width="1"/>
-  <text class="cb-sans" x="624" y="110" font-size="17" font-weight="600" fill="#e6edf3">RAG pipelines &amp; LLM integration</text>
-  <text class="cb-mono" x="624" y="136" font-size="13" fill="#6e7681">FAISS · embeddings · LLaMA / Claude</text>
-  <rect x="624" y="160" width="472" height="8" rx="4" fill="#21262d"/>
-  <rect x="624" y="160" width="260" height="8" rx="4" fill="url(#cb-bar)" filter="url(#cb-glow)">
-    <animate attributeName="width" values="0;260" dur="1.4s" begin="0.25s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze"/>
+  <!-- Card 2 -->
+  <rect x="600" y="80" width="520" height="150" rx="14" fill="#11161d" stroke="#21262d" stroke-width="1"/>
+  <text class="cb-sans" x="628" y="130" font-size="24" font-weight="600" fill="#e6edf3">RAG pipelines &amp; LLM integration</text>
+  <text class="cb-mono" x="628" y="163" font-size="16" fill="#6e7681">FAISS · embeddings · LLaMA / Claude</text>
+  <rect x="628" y="195" width="464" height="12" rx="6" fill="#21262d"/>
+  <rect x="628" y="195" width="176" height="12" rx="6" fill="url(#cb-bar)" filter="url(#cb-glow)">
+    <animate attributeName="x" values="628;916;628" dur="4.6s" repeatCount="indefinite"
+             calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
   </rect>
 </svg>
