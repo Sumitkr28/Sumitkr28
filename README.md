@@ -18,12 +18,9 @@
 
 <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,fastapi,flask,mysql,mongodb,postgres,firebase,aws,azure,gcp,docker,kubernetes,linux,git,github,java,c,js,html,css&perline=12" alt="Tech stack" />
 
-### 🟣 Highlights
-
-<img src="https://img.shields.io/badge/AI%2FML%20Projects-5%2B-bc8cff?style=for-the-badge&labelColor=161b22" alt="5+ AI/ML Projects" />
-<img src="https://img.shields.io/badge/Certifications-5-bc8cff?style=for-the-badge&labelColor=161b22" alt="5 Certifications" />
-<img src="https://img.shields.io/badge/Precision-95%25%2B-bc8cff?style=for-the-badge&labelColor=161b22" alt="95%+ Precision" />
-<img src="https://img.shields.io/badge/Vectors%20Indexed-10K%2B-bc8cff?style=for-the-badge&labelColor=161b22" alt="10K+ Vectors Indexed" />
+<p align="center">
+  <img src="assets/highlights.svg" width="100%" alt="Highlights — 5+ AI/ML projects, 5 certifications, 95%+ precision, 10K+ vectors indexed" />
+</p>
 
 ### 🟣 Featured work
 

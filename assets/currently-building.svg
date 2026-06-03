@@ -1,9 +1,8 @@
 <svg width="920" height="288" viewBox="0 0 920 288" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Currently building: AI agents with MCP + Claude; RAG pipelines and LLM integration">
   <defs>
     <linearGradient id="cb-bar" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#bb86fc" stop-opacity="0.35"/>
-      <stop offset="0.5" stop-color="#d8b9ff"/>
-      <stop offset="1" stop-color="#bb86fc" stop-opacity="0.35"/>
+      <stop offset="0" stop-color="#bb86fc"/>
+      <stop offset="1" stop-color="#d8b9ff"/>
     </linearGradient>
     <filter id="cb-glow" x="-60%" y="-60%" width="220%" height="220%">
       <feGaussianBlur stdDeviation="3" result="b"/>
@@ -29,18 +28,12 @@
   <text class="cb-sans" x="52" y="126" font-size="26" font-weight="600" fill="#e6edf3">AI agents with MCP + Claude</text>
   <text class="cb-mono" x="52" y="162" font-size="14" fill="#6e7681">tool calling · orchestration · automation</text>
   <rect x="52" y="198" width="368" height="14" rx="7" fill="#21262d"/>
-  <rect x="52" y="198" width="140" height="14" rx="7" fill="url(#cb-bar)" filter="url(#cb-glow)">
-    <animate attributeName="x" values="52;280;52" dur="4s" repeatCount="indefinite"
-             calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
-  </rect>
+  <rect x="52" y="198" width="239" height="14" rx="7" fill="url(#cb-bar)" filter="url(#cb-glow)"/>
 
   <!-- Card 2 -->
   <rect x="474" y="70" width="420" height="180" rx="16" fill="#11161d" stroke="#21262d" stroke-width="1"/>
   <text class="cb-sans" x="500" y="126" font-size="26" font-weight="600" fill="#e6edf3">RAG pipelines &amp; LLM integration</text>
   <text class="cb-mono" x="500" y="162" font-size="14" fill="#6e7681">FAISS · embeddings · LLaMA / Claude</text>
   <rect x="500" y="198" width="368" height="14" rx="7" fill="#21262d"/>
-  <rect x="500" y="198" width="140" height="14" rx="7" fill="url(#cb-bar)" filter="url(#cb-glow)">
-    <animate attributeName="x" values="500;728;500" dur="4.6s" repeatCount="indefinite"
-             calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
-  </rect>
+  <rect x="500" y="198" width="202" height="14" rx="7" fill="url(#cb-bar)" filter="url(#cb-glow)"/>
 </svg>

@@ -1,0 +1,41 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Highlights: 5+ AI/ML projects, 5 certifications, 95%+ precision, 10K+ vectors indexed">
+  <defs>
+    <filter id="hl-glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .hl-mono{font-family:'JetBrains Mono','IBM Plex Mono',ui-monospace,'Courier New',monospace}
+      .hl-sans{font-family:'IBM Plex Sans',-apple-system,'Segoe UI',sans-serif}
+      @keyframes hl-pulse{0%,100%{opacity:.75}50%{opacity:1}}
+      .hl-dot{animation:hl-pulse 2.6s ease-in-out infinite}
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="180" fill="#0d1117"/>
+
+  <!-- section header -->
+  <circle class="hl-dot" cx="56" cy="30" r="6" fill="#bb86fc" filter="url(#hl-glow)"/>
+  <text class="hl-mono" x="76" y="36" font-size="18" letter-spacing="3" fill="#d2a8ff">HIGHLIGHTS</text>
+  <line x1="240" y1="30" x2="1150" y2="30" stroke="#1f2630" stroke-width="1"/>
+
+  <!-- Card 1 -->
+  <rect x="50" y="56" width="260" height="110" rx="16" fill="#11161d" stroke="#1f2630" stroke-width="1"/>
+  <text class="hl-sans" x="74" y="114" font-size="34" font-weight="700" fill="#f0f6fc">5+</text>
+  <text class="hl-mono" x="75" y="144" font-size="13" letter-spacing="1" fill="#6e7681">AI/ML PROJECTS</text>
+
+  <!-- Card 2 -->
+  <rect x="330" y="56" width="260" height="110" rx="16" fill="#11161d" stroke="#1f2630" stroke-width="1"/>
+  <text class="hl-sans" x="354" y="114" font-size="34" font-weight="700" fill="#f0f6fc">5</text>
+  <text class="hl-mono" x="355" y="144" font-size="13" letter-spacing="1" fill="#6e7681">CERTIFICATIONS</text>
+
+  <!-- Card 3 -->
+  <rect x="610" y="56" width="260" height="110" rx="16" fill="#11161d" stroke="#1f2630" stroke-width="1"/>
+  <text class="hl-sans" x="634" y="114" font-size="34" font-weight="700" fill="#f0f6fc">95%+</text>
+  <text class="hl-mono" x="635" y="144" font-size="13" letter-spacing="1" fill="#6e7681">PRECISION</text>
+
+  <!-- Card 4 -->
+  <rect x="890" y="56" width="260" height="110" rx="16" fill="#11161d" stroke="#1f2630" stroke-width="1"/>
+  <text class="hl-sans" x="914" y="114" font-size="34" font-weight="700" fill="#f0f6fc">10K+</text>
+  <text class="hl-mono" x="915" y="144" font-size="13" letter-spacing="1" fill="#6e7681">VECTORS INDEXED</text>
+</svg>
